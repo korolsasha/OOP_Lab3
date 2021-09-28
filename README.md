@@ -1,2 +1,2 @@
 # OOP_Lab3
-This project is not finished yet.
+This project is not finished.
